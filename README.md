@@ -22,9 +22,6 @@ Azure Blob Storage
 # Demo
 https://covidreports.azurewebsites.net/
 
-# Video Link
-https://bit.ly/3In20vS
-
 # Screenshots
 <table>
   <tr>
